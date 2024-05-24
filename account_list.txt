@@ -1,0 +1,4 @@
+User,HoangLong,10/10/2005,1234567890,long.doe@gmail.com,hoanglong,10100505
+User,MinhQuan,10/06/2005,9876543210,quan.smith@gmail.com,minhquan,12345678
+Staff,Admin1,10/08/1999,3219676540,admin1@hust.edu.vn,admin1,admin3,54621,SEEE - HUST,ET Department
+Staff,Admin2,25/08/1999,3219876540,admin2@hust.edu.vn,admin2,admin2,54321,SEEE - HUST,ET Department
